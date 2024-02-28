@@ -1,0 +1,25 @@
+sceneSetups:
+- path: Assets/Scenes/SceneMenu.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/SceneChoixNiveaux.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/SceneNiveau_1.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/SceneNiveau_2.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/SceneChoixPersonnage.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/SceneFin.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
